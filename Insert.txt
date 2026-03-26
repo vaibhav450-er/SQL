@@ -1,0 +1,24 @@
+//Inserting Data
+
+INSERT INTO Student (student_id, first_name, last_name, age, gender, email, phone, dept, join_date, status)
+VALUES
+(1, 'Ram', 'Kumar', 20, 'Male', 'ram@example.com', '9876543210', 'CS', '2025-01-10', 'active'),
+(2, 'Shyam', 'Singh', 21, 'Male', 'shyam@example.com', '9876543211', 'IT', '2025-01-11', 'active'),
+(3, 'Geeta', 'Patel', 22, 'Female', 'geeta@example.com', '9876543212', 'CS', '2025-01-12', 'active'),
+(4, 'Rita', 'Shah', 23, 'Female', 'rita@example.com', '9876543213', 'IT', '2025-01-13', 'inactive'),
+(5, 'Amit', 'Verma', 24, 'Male', 'amit@example.com', '9876543214', 'CS', '2025-01-14', 'active'),
+(6, 'Neha', 'Joshi', 22, 'Female', 'neha@example.com', '9876543215', 'IT', '2025-01-15', 'active'),
+(7, 'Kiran', 'Rao', 21, 'Male', 'kiran@example.com', '9876543216', 'CS', '2025-01-16', 'inactive'),
+(8, 'Anita', 'Mehta', 20, 'Female', 'anita@example.com', '9876543217', 'IT', '2025-01-17', 'active'),
+(9, 'Vikram', 'Singh', 23, 'Male', 'vikram@example.com', '9876543218', 'CS', '2025-01-18', 'active'),
+(10, 'Priya', 'Khan', 22, 'Female', 'priya@example.com', '9876543219', 'IT', '2025-01-19', 'active'),
+(11, 'Sahil', 'Gupta', 21, 'Male', 'sahil@example.com', '9876543220', 'CS', '2025-01-20', 'inactive'),
+(12, 'Maya', 'Patel', 20, 'Female', 'maya@example.com', '9876543221', 'IT', '2025-01-21', 'active'),
+(13, 'Rohan', 'Sharma', 22, 'Male', 'rohan@example.com', '9876543222', 'CS', '2025-01-22', 'active'),
+(14, 'Tina', 'Desai', 23, 'Female', 'tina@example.com', '9876543223', 'IT', '2025-01-23', 'active'),
+(15, 'Arjun', 'Verma', 24, 'Male', 'arjun@example.com', '9876543224', 'CS', '2025-01-24', 'inactive'),
+(16, 'Neelam', 'Shah', 22, 'Female', 'neelam@example.com', '9876543225', 'IT', '2025-01-25', 'active'),
+(17, 'Vivek', 'Rao', 21, 'Male', 'vivek@example.com', '9876543226', 'CS', '2025-01-26', 'active'),
+(18, 'Pooja', 'Mehta', 20, 'Female', 'pooja@example.com', '9876543227', 'IT', '2025-01-27', 'inactive'),
+(19, 'Kunal', 'Singh', 23, 'Male', 'kunal@example.com', '9876543228', 'CS', '2025-01-28', 'active'),
+(20, 'Divya', 'Khan', 22, 'Female', 'divya@example.com', '9876543229', 'IT', '2025-01-29', 'active');
