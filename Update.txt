@@ -1,0 +1,9 @@
+// Update Command
+
+update students set clgname='SMVITA' where clgname='NULL';
+
+update students set clgname='SMVITA' where clgname='null';
+
+update students set clgname='SMVITA';
+
+update students set clgname='SMVITA' where clgname is null;

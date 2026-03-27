@@ -1,0 +1,7 @@
+//Alter Command
+
+alter table student add column created_at;
+alter table student rename colname to clgname;
+
+
+ 
